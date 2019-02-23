@@ -1,0 +1,38 @@
+{
+  "name": "json-key-validate",
+  "version": "1.0.0",
+  "description": "Validates required fields exists in the JSON",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --ignore-path .gitignore .",
+    "pretest": "eslint --ignore-path .gitignore .",
+    "test": "node_modules/mocha/bin/mocha tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arshadkazmi42/json-key-validate.git"
+  },
+  "keywords": [
+    "validate",
+    "json-validate",
+    "json-key-validate",
+    "key-exists",
+    "has-key"
+  ],
+  "author": "Arshad Kazmi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arshadkazmi42/json-key-validate/issues"
+  },
+  "homepage": "https://github.com/arshadkazmi42/json-key-validate#readme",
+  "dependencies": {
+    "arr-contains": "^1.0.0",
+    "is-obj": "^1.0.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^5.11.1",
+    "eslint-config-strongloop": "^2.1.0",
+    "mocha": "^6.0.1"
+  }
+}
