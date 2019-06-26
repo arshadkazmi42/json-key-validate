@@ -1,6 +1,7 @@
 # json-key-validate
 
 [![Build Status](https://travis-ci.com/arshadkazmi42/json-key-validate.svg?branch=master)](https://travis-ci.com/arshadkazmi42/json-key-validate)
+[![Github Repo Size](https://img.shields.io/github/repo-size/arshadkazmi42/json-key-validate.svg)](https://github.com/arshadkazmi42/json-key-validate)
 
 Validates if all required keys are present in JSON object
 
