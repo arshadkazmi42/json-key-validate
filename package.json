@@ -1,6 +1,6 @@
 {
   "name": "json-key-validate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Validates required fields exists in the JSON",
   "main": "index.js",
   "scripts": {
@@ -31,8 +31,8 @@
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "eslint": "^5.11.1",
+    "eslint": "^5.16.0",
     "eslint-config-strongloop": "^2.1.0",
-    "mocha": "^6.0.1"
+    "mocha": "^6.2.0"
   }
 }
