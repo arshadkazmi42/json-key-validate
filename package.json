@@ -1,6 +1,6 @@
 {
   "name": "json-key-validate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Validates required fields exists in the JSON",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/arshadkazmi42/json-key-validate.git"
   },
+  "files": [
+    "index.js"
+  ],
   "keywords": [
     "validate",
     "json-validate",
