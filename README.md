@@ -2,6 +2,11 @@
 
 [![Build Status](https://travis-ci.com/arshadkazmi42/json-key-validate.svg?branch=master)](https://travis-ci.com/arshadkazmi42/json-key-validate)
 [![Github Repo Size](https://img.shields.io/github/repo-size/arshadkazmi42/json-key-validate.svg)](https://github.com/arshadkazmi42/json-key-validate)
+[![LICENSE](https://img.shields.io/npm/l/json-key-validate.svg)](https://github.com/arshadkazmi42/json-key-validate/blob/master/LICENSE)
+[![NPM Downloads](https://img.shields.io/npm/dt/json-key-validate.svg)](https://www.npmjs.com/package/json-key-validate)
+[![NPM Version](https://img.shields.io/npm/v/json-key-validate.svg)](https://www.npmjs.com/package/json-key-validate)
+[![Contributors](https://img.shields.io/github/contributors/arshadkazmi42/json-key-validate.svg)](https://github.com/arshadkazmi42/json-key-validate/graphs/contributors)
+[![Commit](https://img.shields.io/github/last-commit/arshadkazmi42/json-key-validate.svg)](https://github.com/arshadkazmi42/json-key-validate/commits/master)
 
 Validates if all required keys are present in JSON object
 
